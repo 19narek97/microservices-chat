@@ -1,0 +1,10 @@
+.idea
+./chat-api/.idea
+./chat-app/.idea
+
+./chat-api/node_modules
+./chat-app/node_modules
+./chat-schemas/node_modules
+
+
+./chat-api/.env
